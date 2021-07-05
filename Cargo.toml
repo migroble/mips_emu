@@ -1,0 +1,5 @@
+[package]
+name = "mips_emu"
+version = "0.1.0"
+authors = ["Miguel \"Peppermint\" Robledo <migroble@ucm.es>"]
+edition = "2018"
